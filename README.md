@@ -1,1 +1,2 @@
-“this is a project to study git”
+“OMG, this is a project to study git”
+
